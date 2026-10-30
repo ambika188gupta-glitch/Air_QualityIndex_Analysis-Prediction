@@ -1,4 +1,3 @@
-# Air_QualityIndex_Analysis-Prediction
 # 🌍 Air Quality Index (AQI) Analysis and Prediction
 
 An end-to-end Data Analysis and Machine Learning project focused on analyzing air pollution levels, identifying pollution hotspots, and predicting air quality to gain meaningful environmental insights.
@@ -90,7 +89,7 @@ Developed an end-to-end air quality analysis project using Python, data visualiz
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ambika Gupta**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
 
